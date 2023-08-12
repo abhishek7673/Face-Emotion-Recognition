@@ -9,7 +9,7 @@
 - pip install pillow
 
 ### download FER2013 dataset
-- from below link and put in data folder under your project directory
+- from below link and put in data folder under your project directory (63MB)
 - https://www.kaggle.com/msambare/fer2013
 
 ### Train Emotion detector
