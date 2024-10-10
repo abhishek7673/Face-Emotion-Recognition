@@ -37,9 +37,7 @@ In deep learning, a convolutional neural network (CNN) is a class of artificial 
 
  They have many application such as: They have applications in:
          # image and video recognition,
-         # recommender systems,
          # image classification,
-         # image segmentation,
          # medical image analysis,
          # natural language processing,
          # brain–computer interfaces,
